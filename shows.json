@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Vuka Breakfast",
+    "description": "Wake up to an energetic breakfast mix packed with songs to get you going!",
+    "schedule": "Monday, Tuesday, Thursday and Friday from 9AM till 10AM and from 11AM till 12PM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["VukaBreakfast", "SAMusic"],
+    "image": "IG_SA_Breakfast.avif"
+  },
+  {
+    "id": 2,
+    "title": "SA Classics",
+    "description": "Enjoy smooth classic jams from artists who have helped define the South African music industry.",
+    "schedule": "Sunday from 12PM till 3PM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["SAClassics", "SAMusic"],
+    "image": "IG_SA_Classics_programme_poster.avif"
+  },
+  {
+    "id": 3,
+    "title": "Connect",
+    "description": "Listen to the songs you have requested for and see your dedications when you connect with us on social media!",
+    "schedule": "Monday, Tuesday, Wednesday, Thursday, Friday and Sunday from 3PM till 6PM; Repeat 9PM till 12AM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["Connect", "SAMusic"],
+    "image": "IG_Connect_programme.avif"
+  },
+  {
+    "id": 4,
+    "title": "Ziyawa",
+    "description": "Groove to the hottest late night bangers which have been making epic waves in the music scene.",
+    "schedule": "Sunday from 12AM till 6AM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["Ziyawa", "SAMusic"],
+    "image": "IG_Ziyawa_programme_poster.avif"
+  },
+  {
+    "id": 5,
+    "title": "Hip-Hop",
+    "description": "Listen to the coolest Hip-Hop songs in the game!",
+    "schedule": "Wednesday from 6PM till 7PM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["HipHop", "SAMusic"],
+    "image": "IG_Hip_hop_programme_posters.avif"
+  },
+  {
+    "id": 6,
+    "title": "SA Hits",
+    "description": "Jam to your favourite songs on SA Hits.",
+    "schedule": "Every weekday from 8PM till 9PM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["SAHits", "SAMusic"],
+    "image": "IG_SA_Hits_Programme_poster.avif"
+  },
+  {
+    "id": 7,
+    "title": "Top 20 Countdown",
+    "description": "Join us as we count down the hottest top 20 songs across the country!",
+    "schedule": "Wednesday from 10AM till 12PM and Saturday from 4PM till 6PM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["Top20Countdown", "SAMusic"],
+    "image": "Instagram_Top_20_programme_poster.avif"
+  },
+  {
+    "id": 8,
+    "title": "Piano To The World",
+    "description": "We bring you the most entertaining music from South Africa’s number one leading genre.",
+    "schedule": "Saturdays from 6PM till 9PM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["PianoToTheWorld", "SAMusic"],
+    "image": "Instagram_Piano_to_the_world_posters.avif"
+  },
+  {
+    "id": 9,
+    "title": "Lunchtime Vibes",
+    "description": "Take a lunch break, put yourself in a good mood and increase your satisfaction with our hits while having your favourite meal!",
+    "schedule": "Monday to Friday from 12PM till 3PM and Saturday from 12PM till 2PM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["LunchtimeVibes", "SAMusic"],
+    "image": "Instagram_Lunchtime_vibes_programme_poster.avif"
+  },
+  {
+    "id": 10,
+    "title": "New",
+    "description": "Get ready to update your playlist with the freshest hit songs on trend!",
+    "schedule": "Monday, Tuesday, Thursday and Friday at 6PM till 7PM and Saturday at 9AM till 10AM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["New", "SAMusic"],
+    "image": "Instagram_New_show_poster.avif"
+  },
+  {
+    "id": 11,
+    "title": "Chart Toppers",
+    "description": "Tune in for the most popular songs of the week dominating the charts from the hottest artists of today!",
+    "schedule": "Monday to Saturday from 6AM till 9AM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["ChartToppers", "SAMusic"],
+    "image": "Instagram_Chart_toppers_poster_yellow_and_green.avif"
+  },
+  {
+    "id": 12,
+    "title": "Video Wall",
+    "description": "Tune in for an incredible compilation of music videos from all genres showing the diversity of our cultures and music styles on our Video Wall.",
+    "schedule": "Monday to Saturday from 12AM till 6AM",
+    "channel": "SA Music CH135 on OpenView",
+    "hashtags": ["VideoWall", "SAMusic"],
+    "image": "Instagram_Video_wall_poster.avif"
+  }
+]

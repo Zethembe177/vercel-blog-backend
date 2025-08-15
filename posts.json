@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "Hello World",
+    "content": "This is the very first test post.",
+    "comments": []
+  },
+  {
+    "id": 2,
+    "title": "Learning Node.js",
+    "content": "Today I tried my first Node.js API and it worked!",
+    "comments": [
+      {
+        "author": "Alice",
+        "text": "Congrats! Keep going."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "React Frontend Test",
+    "content": "Posting from the React frontend using fetch().",
+    "comments": []
+  }
+]
