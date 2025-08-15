@@ -8,6 +8,12 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 5000;
 
+// Root route
+app.get('/', (req, res) => {
+  res.send('🟢 Backend is running!');
+});
+
+
 // Middleware
 app.use(cors());          // allow React frontend to talk to server
 app.use(express.json());   // parse JSON body
