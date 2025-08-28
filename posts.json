@@ -1,25 +1,75 @@
 [
   {
     "id": 1,
-    "title": "Hello World",
-    "content": "This is the very first test post.",
-    "comments": []
-  },
-  {
-    "id": 2,
-    "title": "Learning Node.js",
-    "content": "Today I tried my first Node.js API and it worked!",
+    "title": "Bengicela",
+    "content": "Amapiano’s Soulful Groove of Faith and Reflection. MaWhoo, GL_Ceejay, and Thukuthela team up on Bengicela, a heartfelt Amapiano anthem.",
+    "author": "SA Music",
+    "date": "2025-08-15",
+    "views": 1,
     "comments": [
-      {
-        "author": "Alice",
-        "text": "Congrats! Keep going."
-      }
+      {"author": "Thandi", "text": "This track really speaks to my soul!"},
+      {"author": "Sipho", "text": "Love the production, amazing vibe."}
     ]
   },
   {
-    "id": 3,
-    "title": "React Frontend Test",
-    "content": "Posting from the React frontend using fetch().",
+    "id": 2,
+    "title": "Phakade Lami",
+    "content": "Phakade Lami is a hypnotic blend of deep house, afro soul, and heartfelt storytelling, crafted by Da Capo.",
+    "author": "SA Music",
+    "date": "2025-08-09",
+    "views": 0,
     "comments": []
+  },
+  {
+    "id": 3,
+    "title": "Sdakiwe Sbali",
+    "content": "Amapiano’s Wild Ride Through Drunken Nights & Unfiltered Truths. Blaq Major pulls no punches on Sdakiwe Sbali.",
+    "author": "SA Music",
+    "date": "2025-08-06",
+    "views": 3,
+    "comments": [
+      {"author": "Lerato", "text": "This one hits hard! Blaq Major never disappoints."}
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Ngyozama",
+    "content": "Amapiano’s Soulful Pledge to Keep Trying No Matter What. Dlala Thukzin and Kabza De Small come together on Ngyozama.",
+    "author": "SA Music",
+    "date": "2025-07-30",
+    "views": 4,
+    "comments": []
+  },
+  {
+    "id": 5,
+    "title": "Hermano",
+    "content": "In an era where genre boundaries are dissolving, Hermano by TOSS is shaping the South African sound globally.",
+    "author": "SA Music",
+    "date": "2025-07-26",
+    "views": 4,
+    "comments": [
+      {"author": "Neo", "text": "Hermano is straight fire, love this collab!"},
+      {"author": "Zanele", "text": "Been on repeat since morning!"}
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ngibolekeni",
+    "content": "Amapiano’s Honest Tale of Borrowed Money, Broken Promises & Bold Vibes. DJ Maphorisa, Scotts Maphuma, and Xduppy deliver.",
+    "author": "Zak Dakile",
+    "date": "2025-07-24",
+    "views": 4,
+    "comments": []
+  },
+  {
+    "id": 7,
+    "title": "Tshunela",
+    "content": "Blissbouy teams up with Life Enhle to deliver Tshunela, a track that is both deeply emotional and infectious.",
+    "author": "SA Music",
+    "date": "2025-07-19",
+    "views": 4,
+    "comments": [
+      {"author": "Themba", "text": "Blissbouy and Life Enhle’s chemistry is unmatched!"}
+    ]
   }
 ]

@@ -48,8 +48,10 @@ app.get('/api/posts', (req, res) => {
       return res.status(500).send('Error reading posts');
     }
     try {
-      const posts = JSON.parse(data);
-      res.json(posts);
+     const posts = JSON.parse(data);
+  posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+res.json(posts);
+
     } catch (parseErr) {
       console.error('Error parsing posts.json:', parseErr);
       res.status(500).send('Error parsing posts.json');
